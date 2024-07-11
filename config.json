@@ -1,0 +1,19 @@
+{
+  "source": ["data/variablesToken1.json"],
+  "platforms": {
+    "ts": {
+      "transforms": ["name/kebab", "size/object", "color/css"],
+      "transformGroup": "js",
+      "buildPath": "build/",
+      "files": [
+        {
+          "format": "typescript/accurate-module-declarations",
+          "destination": "colors.d.ts",
+          "options": {
+            "outputStringLiterals": false
+          }
+        }
+      ]
+    }
+  }
+}
