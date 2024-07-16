@@ -1,27 +1,17 @@
 {
-  "source": ["data/variablesToken1.json"],
+  "source": ["data-simple/tokensStudioPreset.json"],
   "platforms": {
-    "ts": {
-      "transforms": ["name/kebab", "size/object", "color/css"],
-      "transformGroup": "js",
-      "buildPath": "build/",
-      "files": [
-        {
-          "format": "typescript/accurate-module-declarations",
-          "destination": "colors.d.ts",
-          "options": {
-            "outputStringLiterals": false
-          }
-        }
-      ]
-    },
     "react-native": {
       "transformGroup": "react-native",
       "buildPath": "./build/",
       "files": [
         {
           "destination": "themes.ts",
-          "format": "javascript/es6"
+          "format": "javascript/object",
+          "options": {
+            "outputReferences": true,
+            "resolveReferences": true
+          }
         }
       ]
     }

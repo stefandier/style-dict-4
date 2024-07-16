@@ -1,0 +1,680 @@
+{
+  "Effect": {
+    "Gradient": {
+      "Overlay": {
+        "light-stop": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "",
+          "parent": "2 - Themes H - R/Honiggelb"
+        },
+        "light-start": {
+          "value": "{Effect.Gradient.Overlay.light-start}",
+          "type": "color",
+          "description": "",
+          "parent": "2 - Themes H - R/Honiggelb"
+        },
+        "dark-start": {
+          "value": "{Effect.Gradient.Overlay.dark-start}",
+          "type": "color",
+          "description": "",
+          "parent": "2 - Themes H - R/Honiggelb"
+        },
+        "dark-stop": {
+          "value": "{Transparent}",
+          "type": "color",
+          "description": "",
+          "parent": "2 - Themes H - R/Honiggelb"
+        },
+        "dark-start-fixed": {
+          "value": "{Effect.Gradient.Overlay.dark-start-fixed}",
+          "type": "color",
+          "description": "",
+          "parent": "2 - Themes H - R/Honiggelb"
+        },
+        "dark-stop-fixed": {
+          "value": "{Transparent}",
+          "type": "color",
+          "description": "",
+          "parent": "2 - Themes H - R/Honiggelb"
+        }
+      },
+      "primary-100": {
+        "value": "{Background.bg-primary-subtle}",
+        "type": "color",
+        "description": "",
+        "parent": "2 - Themes H - R/Honiggelb"
+      },
+      "accent-0": {
+        "value": "{Effect.Gradient.accent-0}",
+        "type": "color",
+        "description": "",
+        "parent": "2 - Themes H - R/Honiggelb"
+      },
+      "accent-100": {
+        "value": "{Effect.Gradient.accent-100}",
+        "type": "color",
+        "description": "",
+        "parent": "2 - Themes H - R/Honiggelb"
+      },
+      "primary-0": {
+        "value": "{Background.bg-primary}",
+        "type": "color",
+        "description": "",
+        "parent": "2 - Themes H - R/Honiggelb"
+      }
+    },
+    "Shadow": {
+      "light-inner": {
+        "value": "{Effect.Shadow.light-inner}",
+        "type": "color",
+        "description": "",
+        "parent": "2 - Themes H - R/Honiggelb"
+      },
+      "light-outer": {
+        "value": "{Effect.Shadow.light-outer}",
+        "type": "color",
+        "description": "",
+        "parent": "2 - Themes H - R/Honiggelb"
+      },
+      "Dark": {
+        "50": {
+          "value": "{Effect.Shadow.Dark.50}",
+          "type": "color",
+          "description": "",
+          "parent": "2 - Themes H - R/Honiggelb"
+        },
+        "100": {
+          "value": "{Effect.Shadow.Dark.100}",
+          "type": "color",
+          "description": "",
+          "parent": "2 - Themes H - R/Honiggelb"
+        }
+      }
+    }
+  },
+  "Background": {
+    "bg-page": {
+      "value": "{Background.bg-page}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-body": {
+      "value": "{Background.bg-body}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-surface": {
+      "value": "{Background.bg-surface}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-surface-invert": {
+      "value": "{Background.bg-surface-invert}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-surface-raised": {
+      "value": "{Background.bg-surface-raised}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-strong": {
+      "value": "{Background.bg-strong}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-subtle": {
+      "value": "{Background.bg-subtle}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-muted": {
+      "value": "{Background.bg-muted}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-input": {
+      "value": "{Background.bg-input}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-input-hover": {
+      "value": "{Background.bg-input-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-input-focus": {
+      "value": "{Background.bg-input-focus}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-input-disabled": {
+      "value": "{Background.bg-input-disabled}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-primary": {
+      "value": "{Background.bg-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-primary-hover": {
+      "value": "{Background.bg-primary-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-primary-subtle": {
+      "value": "{Background.bg-primary-subtle}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-primary-subtle-hover": {
+      "value": "{Background.bg-primary-subtle-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-primary-active": {
+      "value": "{Background.bg-primary-active}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-primary-disabled": {
+      "value": "{Background.bg-primary-disabled}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-primary-muted": {
+      "value": "{Background.bg-primary-muted}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-success": {
+      "value": "{Background.bg-success}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-success-hover": {
+      "value": "{Background.bg-success-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-success-muted": {
+      "value": "{Background.bg-success-muted}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-warning": {
+      "value": "{Background.bg-warning}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-warning-hover": {
+      "value": "{Background.bg-warning-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-warning-muted": {
+      "value": "{Background.bg-warning-muted}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-error": {
+      "value": "{Background.bg-error}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-error-hover": {
+      "value": "{Background.bg-error-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-error-muted": {
+      "value": "{Background.bg-error-muted}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-info": {
+      "value": "{Background.bg-info}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-info-hover": {
+      "value": "{Background.bg-info-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "bg-info-muted": {
+      "value": "{Background.bg-info-muted}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    }
+  },
+  "Border": {
+    "border-container": {
+      "value": "{Border.border-container}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-strong": {
+      "value": "{Border.border-strong}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-subtle": {
+      "value": "{Border.border-subtle}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-inactive": {
+      "value": "{Border.border-inactive}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-input": {
+      "value": "{Border.border-input}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-input-hover": {
+      "value": "{Border.border-input-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-input-focus": {
+      "value": "{Border.border-input-focus}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-input-disabled": {
+      "value": "{Border.border-input-disabled}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-primary": {
+      "value": "{Border.border-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-primary-hover": {
+      "value": "{Border.border-primary-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-primary-subtle": {
+      "value": "{Border.border-primary-subtle}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-primary-subtle-hover": {
+      "value": "{Border.border-primary-subtle-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-primary-focus": {
+      "value": "{Border.border-primary-focus}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-primary-active": {
+      "value": "{Border.border-primary-active}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-primary-disabled": {
+      "value": "{Border.border-primary-disabled}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-strong-on-primary": {
+      "value": "{Border.border-strong-on-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-success": {
+      "value": "{Border.border-success}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-warning": {
+      "value": "{Border.border-warning}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-error": {
+      "value": "{Border.border-error}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "border-info": {
+      "value": "{Border.border-info}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    }
+  },
+  "Icon": {
+    "icon-default": {
+      "value": "{Icon.icon-default}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-muted": {
+      "value": "{Icon.icon-muted}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-inactive": {
+      "value": "{Icon.icon-inactive}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-neutral": {
+      "value": "{Icon.icon-neutral}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-on-subtle": {
+      "value": "{Icon.icon-on-subtle}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-on-invert": {
+      "value": "{Icon.icon-on-invert}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-on-image": {
+      "value": "{Icon.icon-on-image}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-on-input": {
+      "value": "{Icon.icon-on-input}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-primary": {
+      "value": "{Icon.icon-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-primary-hover": {
+      "value": "{Icon.icon-primary-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-primary-disabled": {
+      "value": "{Icon.icon-primary-disabled}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-primary-active": {
+      "value": "{Icon.icon-primary-active}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-on-primary": {
+      "value": "{Icon.icon-on-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-success": {
+      "value": "{Icon.icon-success}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-warning": {
+      "value": "{Icon.icon-warning}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-error": {
+      "value": "{Icon.icon-error}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-error-on-primary": {
+      "value": "{Icon.icon-error-on-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-info": {
+      "value": "{Icon.icon-info}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "icon-rating": {
+      "value": "{Icon.icon-rating}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    }
+  },
+  "Text": {
+    "text-body": {
+      "value": "{Text.text-body}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-secondary": {
+      "value": "{Text.text-secondary}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-subtle": {
+      "value": "{Text.text-subtle}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-on-subtle": {
+      "value": "{Text.text-on-subtle}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-on-image": {
+      "value": "{Text.text-on-image}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-on-invert": {
+      "value": "{Text.text-on-invert}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-muted": {
+      "value": "{Text.text-muted}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-inactive": {
+      "value": "{Text.text-inactive}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-input": {
+      "value": "{Text.text-input}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-input-hover": {
+      "value": "{Text.text-input-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-input-focus": {
+      "value": "{Text.text-input-focus}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-primary": {
+      "value": "{Text.text-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-primary-hover": {
+      "value": "{Text.text-primary-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-primary-link": {
+      "value": "{Text.text-primary-link}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-primary-link-hover": {
+      "value": "{Text.text-primary-link-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-primary-active": {
+      "value": "{Text.text-primary-active}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-primary-disabled": {
+      "value": "{Text.text-primary-disabled}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-on-primary": {
+      "value": "{Text.text-on-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-success": {
+      "value": "{Text.text-success}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-warning": {
+      "value": "{Text.text-warning}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-error": {
+      "value": "{Text.text-error}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-error-on-primary": {
+      "value": "{Text.text-error-on-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    },
+    "text-info": {
+      "value": "{Text.text-info}",
+      "type": "color",
+      "description": "",
+      "parent": "2 - Themes H - R/Honiggelb"
+    }
+  },
+  "white": {
+    "value": "{white}",
+    "type": "color",
+    "description": "",
+    "parent": "2 - Themes H - R/Honiggelb"
+  },
+  "black": {
+    "value": "{black}",
+    "type": "color",
+    "description": "",
+    "parent": "2 - Themes H - R/Honiggelb"
+  },
+  "transparent": {
+    "value": "{Transparent}",
+    "type": "color",
+    "description": "",
+    "parent": "2 - Themes H - R/Honiggelb"
+  }
+}

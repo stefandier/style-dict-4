@@ -1,0 +1,38 @@
+{
+  "blur-4": {
+    "value": "4",
+    "type": "number",
+    "description": "",
+    "parent": "03 - Blurs/Mode 1"
+  },
+  "blur-8": {
+    "value": "8",
+    "type": "number",
+    "description": "",
+    "parent": "03 - Blurs/Mode 1"
+  },
+  "blur-16": {
+    "value": "16",
+    "type": "number",
+    "description": "",
+    "parent": "03 - Blurs/Mode 1"
+  },
+  "blur-24": {
+    "value": "24",
+    "type": "number",
+    "description": "",
+    "parent": "03 - Blurs/Mode 1"
+  },
+  "blur-32": {
+    "value": "32",
+    "type": "number",
+    "description": "",
+    "parent": "03 - Blurs/Mode 1"
+  },
+  "blur-40": {
+    "value": "40",
+    "type": "number",
+    "description": "",
+    "parent": "03 - Blurs/Mode 1"
+  }
+}

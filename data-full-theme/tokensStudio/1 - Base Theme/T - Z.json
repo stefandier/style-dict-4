@@ -1,0 +1,692 @@
+{
+  "Effect": {
+    "Gradient": {
+      "Overlay": {
+        "light-stop": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "",
+          "parent": "1 - Base Theme/T - Z"
+        },
+        "light-start": {
+          "value": "{Effect.Gradient.Overlay.light-start}",
+          "type": "color",
+          "description": "",
+          "parent": "1 - Base Theme/T - Z"
+        },
+        "dark-start": {
+          "value": "{Effect.Gradient.Overlay.dark-start}",
+          "type": "color",
+          "description": "",
+          "parent": "1 - Base Theme/T - Z"
+        },
+        "dark-stop": {
+          "value": "{Transparent}",
+          "type": "color",
+          "description": "",
+          "parent": "1 - Base Theme/T - Z"
+        },
+        "dark-start-fixed": {
+          "value": "{Effect.Gradient.Overlay.dark-start-fixed}",
+          "type": "color",
+          "description": "",
+          "parent": "1 - Base Theme/T - Z"
+        },
+        "dark-stop-fixed": {
+          "value": "{Transparent}",
+          "type": "color",
+          "description": "",
+          "parent": "1 - Base Theme/T - Z"
+        }
+      },
+      "primary-100": {
+        "value": "{Background.bg-primary-subtle}",
+        "type": "color",
+        "description": "",
+        "parent": "1 - Base Theme/T - Z"
+      },
+      "accent-0": {
+        "value": "{Effect.Gradient.accent-0}",
+        "type": "color",
+        "description": "",
+        "parent": "1 - Base Theme/T - Z"
+      },
+      "accent-100": {
+        "value": "{Effect.Gradient.accent-100}",
+        "type": "color",
+        "description": "",
+        "parent": "1 - Base Theme/T - Z"
+      },
+      "primary-0": {
+        "value": "{Background.bg-primary}",
+        "type": "color",
+        "description": "",
+        "parent": "1 - Base Theme/T - Z"
+      }
+    },
+    "Shadow": {
+      "light-inner": {
+        "value": "{Effect.Shadow.light-inner}",
+        "type": "color",
+        "description": "",
+        "parent": "1 - Base Theme/T - Z"
+      },
+      "light-outer": {
+        "value": "{Effect.Shadow.light-outer}",
+        "type": "color",
+        "description": "",
+        "parent": "1 - Base Theme/T - Z"
+      },
+      "Dark": {
+        "50": {
+          "value": "{Effect.Shadow.Dark.50}",
+          "type": "color",
+          "description": "",
+          "parent": "1 - Base Theme/T - Z"
+        },
+        "100": {
+          "value": "{Effect.Shadow.Dark.100}",
+          "type": "color",
+          "description": "",
+          "parent": "1 - Base Theme/T - Z"
+        }
+      }
+    }
+  },
+  "Background": {
+    "bg-page": {
+      "value": "{Background.bg-page}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-body": {
+      "value": "{Background.bg-body}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-surface": {
+      "value": "{Background.bg-surface}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-surface-invert": {
+      "value": "{Background.bg-surface-invert}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-surface-raised": {
+      "value": "{Background.bg-surface-raised}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-strong": {
+      "value": "{Background.bg-strong}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-subtle": {
+      "value": "{Background.bg-subtle}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-muted": {
+      "value": "{Background.bg-muted}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-input": {
+      "value": "{Background.bg-input}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-input-hover": {
+      "value": "{Background.bg-input-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-input-focus": {
+      "value": "{Background.bg-input-focus}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-input-disabled": {
+      "value": "{Background.bg-input-disabled}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-primary": {
+      "value": "{Background.bg-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-primary-hover": {
+      "value": "{Background.bg-primary-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-primary-subtle": {
+      "value": "{Background.bg-primary-subtle}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-primary-subtle-hover": {
+      "value": "{Background.bg-primary-subtle-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-primary-active": {
+      "value": "{Background.bg-primary-active}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-primary-disabled": {
+      "value": "{Background.bg-primary-disabled}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-primary-muted": {
+      "value": "{Background.bg-primary-muted}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-success": {
+      "value": "{Background.bg-success}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-success-hover": {
+      "value": "{Background.bg-success-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-success-muted": {
+      "value": "{Background.bg-success-muted}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-warning": {
+      "value": "{Background.bg-warning}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-warning-hover": {
+      "value": "{Background.bg-warning-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-warning-muted": {
+      "value": "{Background.bg-warning-muted}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-error": {
+      "value": "{Background.bg-error}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-error-hover": {
+      "value": "{Background.bg-error-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-error-muted": {
+      "value": "{Background.bg-error-muted}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-info": {
+      "value": "{Background.bg-info}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-info-hover": {
+      "value": "{Background.bg-info-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "bg-info-muted": {
+      "value": "{Background.bg-info-muted}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    }
+  },
+  "Border": {
+    "border-container": {
+      "value": "{Border.border-container}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-strong": {
+      "value": "{Border.border-strong}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-subtle": {
+      "value": "{Border.border-subtle}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-inactive": {
+      "value": "{Border.border-inactive}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-input": {
+      "value": "{Border.border-input}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-input-hover": {
+      "value": "{Border.border-input-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-input-focus": {
+      "value": "{Border.border-input-focus}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-input-disabled": {
+      "value": "{Border.border-input-disabled}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-primary": {
+      "value": "{Border.border-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-primary-hover": {
+      "value": "{Border.border-primary-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-primary-subtle": {
+      "value": "{Border.border-primary-subtle}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-primary-subtle-hover": {
+      "value": "{Border.border-primary-subtle-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-primary-focus": {
+      "value": "{Border.border-primary-focus}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-primary-active": {
+      "value": "{Border.border-primary-active}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-primary-disabled": {
+      "value": "{Border.border-primary-disabled}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-strong-on-primary": {
+      "value": "{Border.border-strong-on-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-success": {
+      "value": "{Border.border-success}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-warning": {
+      "value": "{Border.border-warning}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-error": {
+      "value": "{Border.border-error}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "border-info": {
+      "value": "{Border.border-info}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    }
+  },
+  "Icon": {
+    "icon-default": {
+      "value": "{Icon.icon-default}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-muted": {
+      "value": "{Icon.icon-muted}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-inactive": {
+      "value": "{Icon.icon-inactive}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-neutral": {
+      "value": "{Icon.icon-neutral}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-on-subtle": {
+      "value": "{Icon.icon-on-subtle}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-on-invert": {
+      "value": "{Icon.icon-on-invert}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-on-image": {
+      "value": "{Icon.icon-on-image}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-on-input": {
+      "value": "{Icon.icon-on-input}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-primary": {
+      "value": "{Icon.icon-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-primary-hover": {
+      "value": "{Icon.icon-primary-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-primary-disabled": {
+      "value": "{Icon.icon-primary-disabled}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-primary-active": {
+      "value": "{Icon.icon-primary-active}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-on-primary": {
+      "value": "{Icon.icon-on-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-success": {
+      "value": "{Icon.icon-success}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-warning": {
+      "value": "{Icon.icon-warning}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-error": {
+      "value": "{Icon.icon-error}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-error-on-primary": {
+      "value": "{Icon.icon-error-on-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-info": {
+      "value": "{Icon.icon-info}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-rating": {
+      "value": "{Icon.icon-rating}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "icon-dark": {
+      "value": "{Bliggit.Neutral.900}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    }
+  },
+  "Text": {
+    "text-body": {
+      "value": "{Text.text-body}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-secondary": {
+      "value": "{Text.text-secondary}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-subtle": {
+      "value": "{Text.text-subtle}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-on-subtle": {
+      "value": "{Text.text-on-subtle}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-on-image": {
+      "value": "{Text.text-on-image}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-on-invert": {
+      "value": "{Text.text-on-invert}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-muted": {
+      "value": "{Text.text-muted}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-inactive": {
+      "value": "{Text.text-inactive}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-input": {
+      "value": "{Text.text-input}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-input-hover": {
+      "value": "{Text.text-input-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-input-focus": {
+      "value": "{Text.text-input-focus}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-primary": {
+      "value": "{Text.text-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-primary-hover": {
+      "value": "{Text.text-primary-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-primary-link": {
+      "value": "{Text.text-primary-link}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-primary-link-hover": {
+      "value": "{Text.text-primary-link-hover}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-primary-active": {
+      "value": "{Text.text-primary-active}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-primary-disabled": {
+      "value": "{Text.text-primary-disabled}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-on-primary": {
+      "value": "{Text.text-on-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-success": {
+      "value": "{Text.text-success}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-warning": {
+      "value": "{Text.text-warning}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-error": {
+      "value": "{Text.text-error}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-error-on-primary": {
+      "value": "{Text.text-error-on-primary}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-info": {
+      "value": "{Text.text-info}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    },
+    "text-dark": {
+      "value": "{Bliggit.Neutral.900}",
+      "type": "color",
+      "description": "",
+      "parent": "1 - Base Theme/T - Z"
+    }
+  },
+  "white": {
+    "value": "{white}",
+    "type": "color",
+    "description": "",
+    "parent": "1 - Base Theme/T - Z"
+  },
+  "black": {
+    "value": "{black}",
+    "type": "color",
+    "description": "",
+    "parent": "1 - Base Theme/T - Z"
+  },
+  "transparent": {
+    "value": "{Transparent}",
+    "type": "color",
+    "description": "",
+    "parent": "1 - Base Theme/T - Z"
+  }
+}

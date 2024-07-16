@@ -1,0 +1,680 @@
+{
+  "Text": {
+    "text-success": {
+      "value": "{Green.500}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-body": {
+      "value": "{Bliggit.Neutral.900}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-error": {
+      "value": "{Red.500}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-warning": {
+      "value": "{Yelllow.500}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-info": {
+      "value": "{Blue.500}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-secondary": {
+      "value": "{Bliggit.Neutral.700}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-subtle": {
+      "value": "{Bliggit.Neutral.600}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-inactive": {
+      "value": "{Bliggit.Neutral.300}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-primary": {
+      "value": "{Bliggit.Grasgruen.600}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-primary-hover": {
+      "value": "{Bliggit.Grasgruen.800}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-primary-link": {
+      "value": "{Bliggit.Grasgruen.600}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-primary-link-hover": {
+      "value": "{Bliggit.Grasgruen.700}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-input": {
+      "value": "{Bliggit.Neutral.500}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-input-hover": {
+      "value": "{Bliggit.Neutral.600}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-input-focus": {
+      "value": "{Bliggit.Neutral.900}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-muted": {
+      "value": "{Bliggit.Neutral.400}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-on-primary": {
+      "value": "{Black}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-on-subtle": {
+      "value": "{Bliggit.Neutral.900}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-primary-disabled": {
+      "value": "{Bliggit.Grasgruen.300}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-primary-active": {
+      "value": "{Bliggit.Grasgruen.800}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-on-image": {
+      "value": "{White}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-on-invert": {
+      "value": "{White}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "text-error-on-primary": {
+      "value": "{Red.600}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    }
+  },
+  "Background": {
+    "bg-success": {
+      "value": "{Green.500}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-body": {
+      "value": "{White}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-success-hover": {
+      "value": "{Green.600}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-primary": {
+      "value": "{Bliggit.Grasgruen.600}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-primary-hover": {
+      "value": "{Bliggit.Grasgruen.900}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-page": {
+      "value": "{White}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-subtle": {
+      "value": "{Bliggit.Neutral.100}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-error": {
+      "value": "{Red.500}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-error-hover": {
+      "value": "{Red.600}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-warning": {
+      "value": "{Yelllow.500}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-warning-hover": {
+      "value": "{Yelllow.600}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-info": {
+      "value": "{Blue.500}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-info-hover": {
+      "value": "{Blue.600}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-input": {
+      "value": "{White}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-input-hover": {
+      "value": "{Bliggit.Neutral.100}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-input-focus": {
+      "value": "{White}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-strong": {
+      "value": "{Bliggit.Neutral.900}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-primary-active": {
+      "value": "{Bliggit.Grasgruen.800}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-primary-disabled": {
+      "value": "{Bliggit.Grasgruen.200}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-surface": {
+      "value": "{Bliggit.Neutral.100}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-surface-invert": {
+      "value": "{Bliggit.Neutral.900}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-primary-subtle": {
+      "value": "{Bliggit.Grasgruen.400}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-primary-subtle-hover": {
+      "value": "{Bliggit.Grasgruen.700}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-primary-muted": {
+      "value": "{Bliggit.Grasgruen.100}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-muted": {
+      "value": "{Bliggit.Neutral.200}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-input-disabled": {
+      "value": "{Bliggit.Neutral.100}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-success-muted": {
+      "value": "{Green.200}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-warning-muted": {
+      "value": "{Yelllow.200}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-error-muted": {
+      "value": "{Red.200}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-info-muted": {
+      "value": "{Blue.200}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "bg-surface-raised": {
+      "value": "{Bliggit.Neutral.900}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    }
+  },
+  "Icon": {
+    "icon-success": {
+      "value": "{Green.500}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-warning": {
+      "value": "{Yelllow.500}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-error": {
+      "value": "{Red.500}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-info": {
+      "value": "{Blue.500}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-default": {
+      "value": "{Bliggit.Neutral.900}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-primary": {
+      "value": "{Bliggit.Grasgruen.600}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-inactive": {
+      "value": "{Bliggit.Neutral.300}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-muted": {
+      "value": "{Bliggit.Neutral.500}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-neutral": {
+      "value": "{White}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-on-primary": {
+      "value": "{Black}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-on-subtle": {
+      "value": "{Bliggit.Neutral.700}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-primary-hover": {
+      "value": "{Bliggit.Grasgruen.800}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-primary-disabled": {
+      "value": "{Bliggit.Grasgruen.300}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-primary-active": {
+      "value": "{Bliggit.Grasgruen.800}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-on-invert": {
+      "value": "{Bliggit.Neutral.100}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-on-input": {
+      "value": "{Bliggit.Neutral.900}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-on-image": {
+      "value": "{White}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-rating": {
+      "value": "{Bliggit.Zitronengelb.500}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "icon-error-on-primary": {
+      "value": "{Red.600}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    }
+  },
+  "Border": {
+    "border-success": {
+      "value": "{Green.400}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-container": {
+      "value": "{Bliggit.Neutral.400}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-strong": {
+      "value": "{Bliggit.Neutral.900}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-inactive": {
+      "value": "{Bliggit.Neutral.300}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-primary": {
+      "value": "{Bliggit.Grasgruen.600}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-error": {
+      "value": "{Red.400}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-warning": {
+      "value": "{Yelllow.400}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-info": {
+      "value": "{Blue.400}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-input": {
+      "value": "{Bliggit.Neutral.300}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-input-hover": {
+      "value": "{Bliggit.Neutral.400}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-input-focus": {
+      "value": "{Bliggit.Grasgruen.300}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-subtle": {
+      "value": "{Bliggit.Neutral.100}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-primary-focus": {
+      "value": "{Bliggit.Grasgruen.400}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-primary-active": {
+      "value": "{Bliggit.Grasgruen.800}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-primary-hover": {
+      "value": "{Bliggit.Grasgruen.800}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-primary-disabled": {
+      "value": "{Bliggit.Grasgruen.200}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-primary-subtle": {
+      "value": "{Bliggit.Grasgruen.500}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-primary-subtle-hover": {
+      "value": "{Bliggit.Grasgruen.700}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-input-disabled": {
+      "value": "{Bliggit.Neutral.300}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "border-strong-on-primary": {
+      "value": "{Bliggit.Neutral.900}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    }
+  },
+  "Effect": {
+    "Gradient": {
+      "primary-0": {
+        "value": "{Background.bg-primary}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "primary-100": {
+        "value": "{Background.bg-primary-subtle}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "accent-0": {
+        "value": "{Bliggit.Zitronengelb.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "accent-100": {
+        "value": "{Bliggit.Tuerkis.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "Overlay": {
+        "light-start": {
+          "value": "{Bliggit.White Alpha.900}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Light",
+          "description": ""
+        },
+        "light-stop": {
+          "value": "{transparent}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Light",
+          "description": ""
+        },
+        "dark-start": {
+          "value": "{Bliggit.Black Alpha.900}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Light",
+          "description": ""
+        },
+        "dark-stop": {
+          "value": "{Transparent}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Light",
+          "description": ""
+        },
+        "dark-start-fixed": {
+          "value": "{Bliggit.Black Alpha.900}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Light",
+          "description": ""
+        },
+        "dark-stop-fixed": {
+          "value": "{Transparent}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Light",
+          "description": ""
+        }
+      }
+    },
+    "Shadow": {
+      "light-outer": {
+        "value": "{Bliggit.Black Alpha.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "light-inner": {
+        "value": "{Bliggit.Black Alpha.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "Dark": {
+        "50": {
+          "value": "{Bliggit.Black Alpha.50}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Light",
+          "description": ""
+        },
+        "100": {
+          "value": "{Bliggit.Black Alpha.100}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Light",
+          "description": ""
+        }
+      }
+    }
+  },
+  "white": {
+    "value": "{White}",
+    "type": "color",
+    "parent": "01 - Semantic Colors/Mode A - Light",
+    "description": ""
+  },
+  "black": {
+    "value": "{Black}",
+    "type": "color",
+    "parent": "01 - Semantic Colors/Mode A - Light",
+    "description": ""
+  },
+  "transparent": {
+    "value": "{Transparent}",
+    "type": "color",
+    "parent": "01 - Semantic Colors/Mode A - Light",
+    "description": ""
+  }
+}

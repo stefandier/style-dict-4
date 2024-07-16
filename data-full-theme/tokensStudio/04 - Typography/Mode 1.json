@@ -1,0 +1,50 @@
+{
+  "font": {
+    "family": {
+      "body": {
+        "value": "Lato",
+        "type": "text",
+        "description": "",
+        "parent": "04 - Typography/Mode 1"
+      },
+      "title": {
+        "value": "Lato",
+        "type": "text",
+        "description": "",
+        "parent": "04 - Typography/Mode 1"
+      }
+    },
+    "weight": {
+      "regular": {
+        "value": "Regular",
+        "type": "text",
+        "description": "",
+        "parent": "04 - Typography/Mode 1"
+      },
+      "semi-bold": {
+        "value": "Bold",
+        "type": "text",
+        "description": "",
+        "parent": "04 - Typography/Mode 1"
+      },
+      "bold": {
+        "value": "ExtraBold",
+        "type": "text",
+        "description": "",
+        "parent": "04 - Typography/Mode 1"
+      },
+      "medium": {
+        "value": "Medium",
+        "type": "text",
+        "description": "",
+        "parent": "04 - Typography/Mode 1"
+      },
+      "light": {
+        "value": "Light",
+        "type": "text",
+        "description": "",
+        "parent": "04 - Typography/Mode 1"
+      }
+    }
+  }
+}

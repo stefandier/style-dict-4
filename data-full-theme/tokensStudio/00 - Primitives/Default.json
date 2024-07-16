@@ -1,0 +1,1200 @@
+{
+  "Black": {
+    "value": "#131313",
+    "type": "color",
+    "description": "Universal, fixed black",
+    "parent": "00 - Primitives/Default"
+  },
+  "White": {
+    "value": "#ffffff",
+    "type": "color",
+    "description": "Universal, fixed white",
+    "parent": "00 - Primitives/Default"
+  },
+  "Bliggit": {
+    "Neutral": {
+      "50": {
+        "value": "#fafafa",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "100": {
+        "value": "#f5f5f5",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "200": {
+        "value": "#e5e5e5",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "300": {
+        "value": "#d4d4d4",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "400": {
+        "value": "#a3a3a3",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "500": {
+        "value": "#737373",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "600": {
+        "value": "#525252",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "700": {
+        "value": "#404040",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "800": {
+        "value": "#262626",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "900": {
+        "value": "#171717",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      }
+    },
+    "Black Alpha": {
+      "50": {
+        "value": "#1313130d",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "100": {
+        "value": "#1313131a",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "200": {
+        "value": "#13131333",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "300": {
+        "value": "#1313134d",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "400": {
+        "value": "#13131366",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "500": {
+        "value": "#13131380",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "600": {
+        "value": "#13131399",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "700": {
+        "value": "#131313b3",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "800": {
+        "value": "#131313cc",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "900": {
+        "value": "#131313e6",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      }
+    },
+    "White Alpha": {
+      "50": {
+        "value": "#ffffff0d",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "100": {
+        "value": "#ffffff1a",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "200": {
+        "value": "#ffffff33",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "300": {
+        "value": "#ffffff4d",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "400": {
+        "value": "#ffffff66",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "500": {
+        "value": "#ffffff80",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "600": {
+        "value": "#ffffff99",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "700": {
+        "value": "#ffffffb3",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "800": {
+        "value": "#ffffffcc",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "900": {
+        "value": "#ffffffe6",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      }
+    },
+    "Blip Blue": {
+      "50": {
+        "value": "#d0d7d8",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "100": {
+        "value": "#b9c3c5",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "200": {
+        "value": "#a1afb2",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "300": {
+        "value": "#8a9b9f",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "400": {
+        "value": "#72878b",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "500": {
+        "value": "#5b7378",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "600": {
+        "value": "#435f65",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "700": {
+        "value": "#2c4b51",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "800": {
+        "value": "#14373e",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "900": {
+        "value": "#0c2024",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      }
+    },
+    "Zitronengelb": {
+      "50": {
+        "value": "#fffbf2",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "100": {
+        "value": "#fef6e4",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "200": {
+        "value": "#feedc6",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "300": {
+        "value": "#fde3a1",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "400": {
+        "value": "#fdd972",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "500": {
+        "value": "#fccf00",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "600": {
+        "value": "#e1b900",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "700": {
+        "value": "#c3a000",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "800": {
+        "value": "#9f8300",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "900": {
+        "value": "#715d00",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      }
+    },
+    "Grasgruen": {
+      "50": {
+        "value": "#f7fbf2",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "100": {
+        "value": "#eff6e4",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "200": {
+        "value": "#dfeec6",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "300": {
+        "value": "#cce5a2",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "400": {
+        "value": "#b8db73",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "500": {
+        "value": "#a2d10c",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "600": {
+        "value": "#91bb0b",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "700": {
+        "value": "#7da209",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "800": {
+        "value": "#668408",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "900": {
+        "value": "#485d05",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      }
+    },
+    "Waldgruen": {
+      "50": {
+        "value": "#f2f8f3",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "100": {
+        "value": "#e4f1e6",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "200": {
+        "value": "#c6e1ca",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "300": {
+        "value": "#a1d1aa",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "400": {
+        "value": "#72bf82",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "500": {
+        "value": "#00ac45",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "600": {
+        "value": "#009a3e",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "700": {
+        "value": "#008535",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "800": {
+        "value": "#006d2c",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "900": {
+        "value": "#004d1f",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      }
+    },
+    "Blau": {
+      "50": {
+        "value": "#f2f5f9",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "100": {
+        "value": "#e4eaf2",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "200": {
+        "value": "#c6d2e5",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "300": {
+        "value": "#a1b8d6",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "400": {
+        "value": "#729ac7",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "500": {
+        "value": "#0073b6",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "600": {
+        "value": "#0067a3",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "700": {
+        "value": "#00598d",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "800": {
+        "value": "#004973",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "900": {
+        "value": "#003351",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      }
+    },
+    "Rose": {
+      "50": {
+        "value": "#fdf3f7",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "100": {
+        "value": "#fae7ef",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "200": {
+        "value": "#f5ccdd",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "300": {
+        "value": "#f0adca",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "400": {
+        "value": "#eb88b6",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "500": {
+        "value": "#e6529e",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "600": {
+        "value": "#ce498d",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "700": {
+        "value": "#b2407a",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "800": {
+        "value": "#913464",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "900": {
+        "value": "#672547",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      }
+    },
+    "Fuchsia": {
+      "50": {
+        "value": "#fdf3f4",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "100": {
+        "value": "#fce5e9",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "200": {
+        "value": "#f8c9d0",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "300": {
+        "value": "#f4a7b4",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "400": {
+        "value": "#f17d92",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "500": {
+        "value": "#ed3966",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "600": {
+        "value": "#d4335b",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "700": {
+        "value": "#b82c4f",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "800": {
+        "value": "#962441",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "900": {
+        "value": "#6a192e",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      }
+    },
+    "Lila": {
+      "50": {
+        "value": "#f6f3f9",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "100": {
+        "value": "#ede6f2",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "200": {
+        "value": "#d9cae5",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "300": {
+        "value": "#c3a8d7",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "400": {
+        "value": "#ab7fc8",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "500": {
+        "value": "#8e3fb8",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "600": {
+        "value": "#7f38a5",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "700": {
+        "value": "#6e318f",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "800": {
+        "value": "#5a2874",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "900": {
+        "value": "#401c52",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      }
+    },
+    "Blutorange": {
+      "50": {
+        "value": "#fdf3f2",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "100": {
+        "value": "#fce7e5",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "200": {
+        "value": "#f9cdc8",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "300": {
+        "value": "#f6aea6",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "400": {
+        "value": "#f2897b",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "500": {
+        "value": "#ef5534",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "600": {
+        "value": "#d64c2f",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "700": {
+        "value": "#b94228",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "800": {
+        "value": "#973621",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "900": {
+        "value": "#6b2617",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      }
+    },
+    "Honiggelb": {
+      "50": {
+        "value": "#fef7f2",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "100": {
+        "value": "#fdf0e4",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "200": {
+        "value": "#fcdfc6",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "300": {
+        "value": "#facea1",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "400": {
+        "value": "#f9bb72",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "500": {
+        "value": "#f7a500",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "600": {
+        "value": "#dd9400",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "700": {
+        "value": "#bf8000",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "800": {
+        "value": "#9c6800",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "900": {
+        "value": "#6e4a00",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      }
+    },
+    "Tuerkis": {
+      "50": {
+        "value": "#f2f9f8",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "100": {
+        "value": "#e4f2f0",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "200": {
+        "value": "#c6e5e0",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "300": {
+        "value": "#a1d7cf",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "400": {
+        "value": "#72c7bc",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "500": {
+        "value": "#00b7a7",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "600": {
+        "value": "#00a495",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "700": {
+        "value": "#008e81",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "800": {
+        "value": "#00746a",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "900": {
+        "value": "#00524b",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      }
+    },
+    "Hellblau": {
+      "50": {
+        "value": "#f2f8fb",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "100": {
+        "value": "#e4f1f8",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "200": {
+        "value": "#c6e2f1",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "300": {
+        "value": "#a2d2e9",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "400": {
+        "value": "#72c1e1",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "500": {
+        "value": "#0baed9",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "600": {
+        "value": "#0a9cc2",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "700": {
+        "value": "#0987a8",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "800": {
+        "value": "#076e89",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      },
+      "900": {
+        "value": "#054e61",
+        "type": "color",
+        "description": "",
+        "parent": "00 - Primitives/Default"
+      }
+    }
+  },
+  "Red": {
+    "50": {
+      "value": "#fef2f2",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "100": {
+      "value": "#fee2e2",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "200": {
+      "value": "#fecaca",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "300": {
+      "value": "#fca5a5",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "400": {
+      "value": "#f87171",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "500": {
+      "value": "#ef4444",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "600": {
+      "value": "#dc2626",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "700": {
+      "value": "#b91c1c",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "800": {
+      "value": "#991b1b",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "900": {
+      "value": "#7f1d1d",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    }
+  },
+  "Yellow": {
+    "50": {
+      "value": "#fefce8",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "100": {
+      "value": "#fef9c3",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "200": {
+      "value": "#fef08a",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "300": {
+      "value": "#fde047",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "400": {
+      "value": "#facc15",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "500": {
+      "value": "#eab308",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "600": {
+      "value": "#ca8a04",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "700": {
+      "value": "#a16207",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "800": {
+      "value": "#854d0e",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "900": {
+      "value": "#713f12",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    }
+  },
+  "Green": {
+    "50": {
+      "value": "#f0fdf4",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "100": {
+      "value": "#dcfce7",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "200": {
+      "value": "#bbf7d0",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "300": {
+      "value": "#86efac",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "400": {
+      "value": "#4ade80",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "500": {
+      "value": "#22c55e",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "600": {
+      "value": "#16a34a",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "700": {
+      "value": "#15803d",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "800": {
+      "value": "#166534",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "900": {
+      "value": "#14532d",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    }
+  },
+  "Blue": {
+    "50": {
+      "value": "#eff6ff",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "100": {
+      "value": "#dbeafe",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "200": {
+      "value": "#bfdbfe",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "300": {
+      "value": "#93c5fd",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "400": {
+      "value": "#60a5fa",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "500": {
+      "value": "#3b82f6",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "600": {
+      "value": "#2563eb",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "700": {
+      "value": "#1d4ed8",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "800": {
+      "value": "#1e40af",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    },
+    "900": {
+      "value": "#1e3a8a",
+      "type": "color",
+      "description": "",
+      "parent": "00 - Primitives/Default"
+    }
+  },
+  "Transparent": {
+    "value": "#ffffff00",
+    "type": "color",
+    "description": "Simply fully transparent, nothing else",
+    "parent": "00 - Primitives/Default"
+  }
+}

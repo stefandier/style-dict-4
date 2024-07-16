@@ -1,4 +1,8 @@
 {
+  "name": "sd-tokens",
+  "scripts": {
+    "build": "style-dictionary build --config ./build.mjs"
+  },
   "devDependencies": {
     "@tokens-studio/sd-transforms": "github:tokens-studio/sd-transforms",
     "json-to-ts": "^2.1.0",

@@ -1,0 +1,108 @@
+{
+  "Radius": {
+    "radii-xxs": {
+      "value": "2",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    },
+    "radii-xs": {
+      "value": "4",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    },
+    "radii-s": {
+      "value": "6",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    },
+    "radii-l": {
+      "value": "16",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    },
+    "radii-xl": {
+      "value": "24",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    },
+    "radii-full": {
+      "value": "999",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    },
+    "radii-m": {
+      "value": "8",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    },
+    "radii-none": {
+      "value": "0",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    },
+    "radii-xxl": {
+      "value": "48",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    }
+  },
+  "Spacing": {
+    "spacing-xs": {
+      "value": "4",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    },
+    "spacing-s": {
+      "value": "8",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    },
+    "spacing-m": {
+      "value": "16",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    },
+    "spacing-l": {
+      "value": "24",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    },
+    "spacing-xl": {
+      "value": "32",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    },
+    "spacing-xxl": {
+      "value": "40",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    },
+    "spacing-xxs": {
+      "value": "2",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    },
+    "spacing-none": {
+      "value": "0",
+      "type": "number",
+      "description": "",
+      "parent": "02 - Spacing/Mode 1"
+    }
+  }
+}
