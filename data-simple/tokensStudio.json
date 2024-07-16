@@ -1,0 +1,4131 @@
+{
+  "00 - Primitives/Default": {
+    "Black": {
+      "value": "#131313",
+      "type": "color",
+      "parent": "00 - Primitives/Default",
+      "description": "Universal, fixed black"
+    },
+    "White": {
+      "value": "#ffffff",
+      "type": "color",
+      "parent": "00 - Primitives/Default",
+      "description": "Universal, fixed white"
+    },
+    "Bliggit": {
+      "Neutral": {
+        "50": {
+          "value": "#fafafa",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#f5f5f5",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#e5e5e5",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#d4d4d4",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#a3a3a3",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#737373",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#525252",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#404040",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#262626",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#171717",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        }
+      },
+      "Black Alpha": {
+        "50": {
+          "value": "#1313130d",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#1313131a",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#13131333",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#1313134d",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#13131366",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#13131380",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#13131399",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#131313b3",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#131313cc",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#131313e6",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        }
+      },
+      "White Alpha": {
+        "50": {
+          "value": "#ffffff0d",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#ffffff1a",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#ffffff33",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#ffffff4d",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#ffffff66",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#ffffff80",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#ffffff99",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#ffffffb3",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#ffffffcc",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#ffffffe6",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        }
+      },
+      "Blip Blue": {
+        "50": {
+          "value": "#d0d7d8",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#b9c3c5",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#a1afb2",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#8a9b9f",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#72878b",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#5b7378",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#435f65",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#2c4b51",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#14373e",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#0c2024",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        }
+      },
+      "Zitronengelb": {
+        "50": {
+          "value": "#fffbf2",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#fef6e4",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#feedc6",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#fde3a1",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#fdd972",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#fccf00",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#e1b900",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#c3a000",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#9f8300",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#715d00",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        }
+      },
+      "Grasgruen": {
+        "50": {
+          "value": "#f7fbf2",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#eff6e4",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#dfeec6",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#cce5a2",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#b8db73",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#a2d10c",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#91bb0b",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#7da209",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#668408",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#485d05",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        }
+      },
+      "Wald": {
+        "50": {
+          "value": "#f2f8f3",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#e4f1e6",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#c6e1ca",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#a1d1aa",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#72bf82",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#00ac45",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#009a3e",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#008535",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#006d2c",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#004d1f",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        }
+      },
+      "Blau": {
+        "50": {
+          "value": "#f2f5f9",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#e4eaf2",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#c6d2e5",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#a1b8d6",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#729ac7",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#0073b6",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#0067a3",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#00598d",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#004973",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#003351",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        }
+      },
+      "Rose": {
+        "50": {
+          "value": "#fdf3f7",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#fae7ef",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#f5ccdd",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#f0adca",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#eb88b6",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#e6529e",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#ce498d",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#b2407a",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#913464",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#672547",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        }
+      },
+      "Fuchsia": {
+        "50": {
+          "value": "#fdf3f4",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#fce5e9",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#f8c9d0",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#f4a7b4",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#f17d92",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#ed3966",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#d4335b",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#b82c4f",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#962441",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#6a192e",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        }
+      },
+      "Lila": {
+        "50": {
+          "value": "#f6f3f9",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#ede6f2",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#d9cae5",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#c3a8d7",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#ab7fc8",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#8e3fb8",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#7f38a5",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#6e318f",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#5a2874",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#401c52",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        }
+      },
+      "Blutorange": {
+        "50": {
+          "value": "#fdf3f2",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#fce7e5",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#f9cdc8",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#f6aea6",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#f2897b",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#ef5534",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#d64c2f",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#b94228",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#973621",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#6b2617",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        }
+      },
+      "Honiggelb": {
+        "50": {
+          "value": "#fef7f2",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#fdf0e4",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#fcdfc6",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#facea1",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#f9bb72",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#f7a500",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#dd9400",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#bf8000",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#9c6800",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#6e4a00",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        }
+      },
+      "Tuerkis": {
+        "50": {
+          "value": "#f2f9f8",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#e4f2f0",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#c6e5e0",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#a1d7cf",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#72c7bc",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#00b7a7",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#00a495",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#008e81",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#00746a",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#00524b",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        }
+      },
+      "Hellblau": {
+        "50": {
+          "value": "#f2f8fb",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#e4f1f8",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#c6e2f1",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#a2d2e9",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#72c1e1",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#0baed9",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#0a9cc2",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#0987a8",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#076e89",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#054e61",
+          "type": "color",
+          "parent": "00 - Primitives/Default",
+          "description": ""
+        }
+      }
+    },
+    "Red": {
+      "50": {
+        "value": "#fef2f2",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "100": {
+        "value": "#fee2e2",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "200": {
+        "value": "#fecaca",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "300": {
+        "value": "#fca5a5",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "400": {
+        "value": "#f87171",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "500": {
+        "value": "#ef4444",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "600": {
+        "value": "#dc2626",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "700": {
+        "value": "#b91c1c",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "800": {
+        "value": "#991b1b",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "900": {
+        "value": "#7f1d1d",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      }
+    },
+    "Yelllow": {
+      "50": {
+        "value": "#fefce8",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "100": {
+        "value": "#fef9c3",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "200": {
+        "value": "#fef08a",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "300": {
+        "value": "#fde047",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "400": {
+        "value": "#facc15",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "500": {
+        "value": "#eab308",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "600": {
+        "value": "#ca8a04",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "700": {
+        "value": "#a16207",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "800": {
+        "value": "#854d0e",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "900": {
+        "value": "#713f12",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      }
+    },
+    "Green": {
+      "50": {
+        "value": "#f0fdf4",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "100": {
+        "value": "#dcfce7",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "200": {
+        "value": "#bbf7d0",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "300": {
+        "value": "#86efac",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "400": {
+        "value": "#4ade80",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "500": {
+        "value": "#22c55e",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "600": {
+        "value": "#16a34a",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "700": {
+        "value": "#15803d",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "800": {
+        "value": "#166534",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "900": {
+        "value": "#14532d",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      }
+    },
+    "Blue": {
+      "50": {
+        "value": "#eff6ff",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "100": {
+        "value": "#dbeafe",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "200": {
+        "value": "#bfdbfe",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "300": {
+        "value": "#93c5fd",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "400": {
+        "value": "#60a5fa",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "500": {
+        "value": "#3b82f6",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "600": {
+        "value": "#2563eb",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "700": {
+        "value": "#1d4ed8",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "800": {
+        "value": "#1e40af",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      },
+      "900": {
+        "value": "#1e3a8a",
+        "type": "color",
+        "parent": "00 - Primitives/Default",
+        "description": ""
+      }
+    },
+    "Transparent": {
+      "value": "#ffffff00",
+      "type": "color",
+      "parent": "00 - Primitives/Default",
+      "description": "Simply fully transparent, nothing else"
+    }
+  },
+  "01 - Semantic Colors/Mode B - Light": {
+    "Text": {
+      "text-success": {
+        "value": "{Green.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-body": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-error": {
+        "value": "{Red.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-warning": {
+        "value": "{Yelllow.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-info": {
+        "value": "{Blue.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-secondary": {
+        "value": "{Bliggit.Neutral.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-subtle": {
+        "value": "{Bliggit.Neutral.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-inactive": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-primary": {
+        "value": "{Bliggit.Lila.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-primary-hover": {
+        "value": "{Bliggit.Lila.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-primary-link": {
+        "value": "{Bliggit.Lila.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-primary-link-hover": {
+        "value": "{Bliggit.Lila.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-input": {
+        "value": "{Bliggit.Neutral.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-input-hover": {
+        "value": "{Bliggit.Neutral.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-input-focus": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-muted": {
+        "value": "{Bliggit.Neutral.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-on-primary": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-on-subtle": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-primary-disabled": {
+        "value": "{Bliggit.Lila.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-primary-active": {
+        "value": "{Bliggit.Lila.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-on-image": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-on-invert": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "text-error-on-primary": {
+        "value": "{Red.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      }
+    },
+    "Background": {
+      "bg-success": {
+        "value": "{Green.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-body": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-success-hover": {
+        "value": "{Green.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-primary": {
+        "value": "{Bliggit.Lila.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-primary-hover": {
+        "value": "{Bliggit.Lila.800}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-page": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-subtle": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-error": {
+        "value": "{Red.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-error-hover": {
+        "value": "{Red.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-warning": {
+        "value": "{Yelllow.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-warning-hover": {
+        "value": "{Yelllow.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-info": {
+        "value": "{Blue.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-info-hover": {
+        "value": "{Blue.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-input": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-input-hover": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-input-focus": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-strong": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-primary-active": {
+        "value": "{Bliggit.Lila.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-primary-disabled": {
+        "value": "{Bliggit.Lila.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-surface": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-surface-invert": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-primary-subtle": {
+        "value": "{Bliggit.Lila.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-primary-subtle-hover": {
+        "value": "{Bliggit.Lila.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-primary-muted": {
+        "value": "{Bliggit.Lila.50}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-muted": {
+        "value": "{Bliggit.Neutral.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-input-disabled": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-success-muted": {
+        "value": "{Green.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-warning-muted": {
+        "value": "{Yelllow.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-error-muted": {
+        "value": "{Red.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-info-muted": {
+        "value": "{Blue.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "bg-surface-raised": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      }
+    },
+    "Icon": {
+      "icon-success": {
+        "value": "{Green.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-warning": {
+        "value": "{Yelllow.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-error": {
+        "value": "{Red.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-info": {
+        "value": "{Blue.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-default": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-primary": {
+        "value": "{Bliggit.Lila.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-inactive": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-muted": {
+        "value": "{Bliggit.Neutral.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-neutral": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-on-primary": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-on-subtle": {
+        "value": "{Bliggit.Neutral.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-primary-hover": {
+        "value": "{Bliggit.Lila.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-primary-disabled": {
+        "value": "{Bliggit.Lila.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-primary-active": {
+        "value": "{Bliggit.Lila.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-on-invert": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-on-input": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-on-image": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-rating": {
+        "value": "{Bliggit.Zitronengelb.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "icon-error-on-primary": {
+        "value": "{Red.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      }
+    },
+    "Border": {
+      "border-success": {
+        "value": "{Green.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-container": {
+        "value": "{Bliggit.Neutral.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-strong": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-inactive": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-primary": {
+        "value": "{Bliggit.Lila.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-error": {
+        "value": "{Red.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-warning": {
+        "value": "{Yelllow.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-info": {
+        "value": "{Blue.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-input": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-input-hover": {
+        "value": "{Bliggit.Neutral.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-input-focus": {
+        "value": "{Bliggit.Lila.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-subtle": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-primary-focus": {
+        "value": "{Bliggit.Lila.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-primary-active": {
+        "value": "{Bliggit.Lila.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-primary-hover": {
+        "value": "{Bliggit.Lila.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-primary-disabled": {
+        "value": "{Bliggit.Lila.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-primary-subtle": {
+        "value": "{Bliggit.Lila.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-primary-subtle-hover": {
+        "value": "{Bliggit.Lila.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-input-disabled": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      },
+      "border-strong-on-primary": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Light",
+        "description": ""
+      }
+    },
+    "Effect": {
+      "Gradient": {
+        "primary-0": {
+          "value": "{Background.bg-primary}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode B - Light",
+          "description": ""
+        },
+        "primary-100": {
+          "value": "{Background.bg-primary-subtle}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode B - Light",
+          "description": ""
+        },
+        "accent-0": {
+          "value": "{Bliggit.Blutorange.300}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode B - Light",
+          "description": ""
+        },
+        "accent-100": {
+          "value": "{Bliggit.Fuchsia.400}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode B - Light",
+          "description": ""
+        },
+        "Overlay": {
+          "light-start": {
+            "value": "{Bliggit.White Alpha.900}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode B - Light",
+            "description": ""
+          },
+          "light-stop": {
+            "value": "{transparent}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode B - Light",
+            "description": ""
+          },
+          "dark-start": {
+            "value": "{Bliggit.Black Alpha.900}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode B - Light",
+            "description": ""
+          },
+          "dark-stop": {
+            "value": "{Transparent}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode B - Light",
+            "description": ""
+          },
+          "dark-start-fixed": {
+            "value": "{Bliggit.Black Alpha.900}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode B - Light",
+            "description": ""
+          },
+          "dark-stop-fixed": {
+            "value": "{Transparent}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode B - Light",
+            "description": ""
+          }
+        }
+      },
+      "Shadow": {
+        "light-outer": {
+          "value": "{Bliggit.Black Alpha.100}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode B - Light",
+          "description": ""
+        },
+        "light-inner": {
+          "value": "{Bliggit.Black Alpha.50}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode B - Light",
+          "description": ""
+        },
+        "Dark": {
+          "50": {
+            "value": "{Bliggit.Black Alpha.50}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode B - Light",
+            "description": ""
+          },
+          "100": {
+            "value": "{Bliggit.Black Alpha.100}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode B - Light",
+            "description": ""
+          }
+        }
+      }
+    },
+    "white": {
+      "value": "{White}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode B - Light",
+      "description": ""
+    },
+    "black": {
+      "value": "{Black}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode B - Light",
+      "description": ""
+    },
+    "transparent": {
+      "value": "{00 - Primitives/Default.Transparent}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode B - Light",
+      "description": ""
+    }
+  },
+  "01 - Semantic Colors/Mode B - Dark": {
+    "Text": {
+      "text-success": {
+        "value": "{Green.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-body": {
+        "value": "{Bliggit.Neutral.50}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-error": {
+        "value": "{Red.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-warning": {
+        "value": "{Yelllow.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-info": {
+        "value": "{Blue.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-secondary": {
+        "value": "{Bliggit.Neutral.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-subtle": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-inactive": {
+        "value": "{Bliggit.Neutral.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-primary": {
+        "value": "{Bliggit.Lila.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-primary-hover": {
+        "value": "{Bliggit.Lila.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-primary-link": {
+        "value": "{Bliggit.Lila.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-primary-link-hover": {
+        "value": "{Bliggit.Lila.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-input": {
+        "value": "{Bliggit.Neutral.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-input-hover": {
+        "value": "{Bliggit.Neutral.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-input-focus": {
+        "value": "{Bliggit.Neutral.50}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-muted": {
+        "value": "{Bliggit.Neutral.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-on-primary": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-on-subtle": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-primary-disabled": {
+        "value": "{Bliggit.Lila.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-primary-active": {
+        "value": "{Bliggit.Lila.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-on-image": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-on-invert": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "text-error-on-primary": {
+        "value": "{Red.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      }
+    },
+    "Background": {
+      "bg-success": {
+        "value": "{Green.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-body": {
+        "value": "{Bliggit.Neutral.800}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-success-hover": {
+        "value": "{Green.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-primary": {
+        "value": "{Bliggit.Lila.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-primary-hover": {
+        "value": "{Bliggit.Lila.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-page": {
+        "value": "{Black}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-subtle": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-error": {
+        "value": "{Red.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-error-hover": {
+        "value": "{Red.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-warning": {
+        "value": "{Yelllow.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-warning-hover": {
+        "value": "{Yelllow.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-info": {
+        "value": "{Blue.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-info-hover": {
+        "value": "{Blue.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-input": {
+        "value": "{Black}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-input-hover": {
+        "value": "{Bliggit.Neutral.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-input-focus": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-strong": {
+        "value": "{Bliggit.Neutral.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-primary-active": {
+        "value": "{Bliggit.Lila.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-primary-disabled": {
+        "value": "{Bliggit.Lila.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-surface": {
+        "value": "{Bliggit.Neutral.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-surface-invert": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-primary-subtle": {
+        "value": "{Bliggit.Lila.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-primary-subtle-hover": {
+        "value": "{Bliggit.Lila.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-primary-muted": {
+        "value": "{Bliggit.Lila.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-muted": {
+        "value": "{Bliggit.Neutral.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-input-disabled": {
+        "value": "{Bliggit.Neutral.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-success-muted": {
+        "value": "{Green.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-warning-muted": {
+        "value": "{Yelllow.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-error-muted": {
+        "value": "{Red.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-info-muted": {
+        "value": "{Blue.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "bg-surface-raised": {
+        "value": "{Bliggit.Neutral.800}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      }
+    },
+    "Icon": {
+      "icon-success": {
+        "value": "{Green.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-warning": {
+        "value": "{Yelllow.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-error": {
+        "value": "{Red.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-info": {
+        "value": "{Blue.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-default": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-primary": {
+        "value": "{Bliggit.Lila.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-inactive": {
+        "value": "{Bliggit.Neutral.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-muted": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-neutral": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-on-primary": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-on-subtle": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-primary-hover": {
+        "value": "{Bliggit.Lila.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-primary-disabled": {
+        "value": "{Bliggit.Lila.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-primary-active": {
+        "value": "{Bliggit.Lila.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-on-invert": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-on-input": {
+        "value": "{Bliggit.Neutral.50}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-on-image": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-rating": {
+        "value": "{Bliggit.Zitronengelb.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "icon-error-on-primary": {
+        "value": "{Red.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      }
+    },
+    "Border": {
+      "border-success": {
+        "value": "{Green.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-container": {
+        "value": "{Bliggit.Neutral.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-strong": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-inactive": {
+        "value": "{Bliggit.Neutral.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-primary": {
+        "value": "{Bliggit.Lila.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-error": {
+        "value": "{Red.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-warning": {
+        "value": "{Yelllow.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-info": {
+        "value": "{Blue.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-input": {
+        "value": "{Bliggit.Neutral.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-input-hover": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-input-focus": {
+        "value": "{Bliggit.Lila.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-subtle": {
+        "value": "{Bliggit.Neutral.800}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-primary-focus": {
+        "value": "{Bliggit.Lila.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-primary-active": {
+        "value": "{Bliggit.Lila.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-primary-hover": {
+        "value": "{Bliggit.Lila.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-primary-disabled": {
+        "value": "{Bliggit.Lila.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-primary-subtle": {
+        "value": "{Bliggit.Lila.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-primary-subtle-hover": {
+        "value": "{Bliggit.Lila.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-input-disabled": {
+        "value": "{Bliggit.Neutral.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      },
+      "border-strong-on-primary": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode B - Dark",
+        "description": ""
+      }
+    },
+    "Effect": {
+      "Gradient": {
+        "primary-0": {
+          "value": "{Background.bg-primary}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode B - Dark",
+          "description": ""
+        },
+        "primary-100": {
+          "value": "{Background.bg-primary-subtle}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode B - Dark",
+          "description": ""
+        },
+        "accent-0": {
+          "value": "{Bliggit.Blutorange.400}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode B - Dark",
+          "description": ""
+        },
+        "accent-100": {
+          "value": "{Bliggit.Fuchsia.500}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode B - Dark",
+          "description": ""
+        },
+        "Overlay": {
+          "light-start": {
+            "value": "{Bliggit.Black Alpha.900}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode B - Dark",
+            "description": ""
+          },
+          "light-stop": {
+            "value": "{Transparent}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode B - Dark",
+            "description": ""
+          },
+          "dark-start": {
+            "value": "{Bliggit.White Alpha.900}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode B - Dark",
+            "description": ""
+          },
+          "dark-stop": {
+            "value": "{Transparent}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode B - Dark",
+            "description": ""
+          },
+          "dark-start-fixed": {
+            "value": "{Bliggit.Black Alpha.900}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode B - Dark",
+            "description": ""
+          },
+          "dark-stop-fixed": {
+            "value": "{Transparent}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode B - Dark",
+            "description": ""
+          }
+        }
+      },
+      "Shadow": {
+        "light-outer": {
+          "value": "{Black}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode B - Dark",
+          "description": ""
+        },
+        "light-inner": {
+          "value": "{Bliggit.Black Alpha.900}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode B - Dark",
+          "description": ""
+        },
+        "Dark": {
+          "50": {
+            "value": "{Bliggit.White Alpha.50}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode B - Dark",
+            "description": ""
+          },
+          "100": {
+            "value": "{Bliggit.White Alpha.100}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode B - Dark",
+            "description": ""
+          }
+        }
+      }
+    },
+    "white": {
+      "value": "{White}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode B - Dark",
+      "description": ""
+    },
+    "black": {
+      "value": "{Black}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode B - Dark",
+      "description": ""
+    },
+    "transparent": {
+      "value": "{Transparent}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode B - Dark",
+      "description": ""
+    }
+  },
+  "01 - Semantic Colors/Mode A - Light": {
+    "Text": {
+      "text-success": {
+        "value": "{Green.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-body": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-error": {
+        "value": "{Red.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-warning": {
+        "value": "{Yelllow.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-info": {
+        "value": "{Blue.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-secondary": {
+        "value": "{Bliggit.Neutral.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-subtle": {
+        "value": "{Bliggit.Neutral.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-inactive": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-primary": {
+        "value": "{Bliggit.Grasgruen.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-primary-hover": {
+        "value": "{Bliggit.Grasgruen.800}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-primary-link": {
+        "value": "{Bliggit.Grasgruen.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-primary-link-hover": {
+        "value": "{Bliggit.Grasgruen.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-input": {
+        "value": "{Bliggit.Neutral.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-input-hover": {
+        "value": "{Bliggit.Neutral.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-input-focus": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-muted": {
+        "value": "{Bliggit.Neutral.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-on-primary": {
+        "value": "{Black}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-on-subtle": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-primary-disabled": {
+        "value": "{Bliggit.Grasgruen.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-primary-active": {
+        "value": "{Bliggit.Grasgruen.800}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-on-image": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-on-invert": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "text-error-on-primary": {
+        "value": "{Red.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      }
+    },
+    "Background": {
+      "bg-success": {
+        "value": "{Green.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-body": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-success-hover": {
+        "value": "{Green.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-primary": {
+        "value": "{Bliggit.Grasgruen.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-primary-hover": {
+        "value": "{Bliggit.Grasgruen.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-page": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-subtle": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-error": {
+        "value": "{Red.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-error-hover": {
+        "value": "{Red.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-warning": {
+        "value": "{Yelllow.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-warning-hover": {
+        "value": "{Yelllow.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-info": {
+        "value": "{Blue.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-info-hover": {
+        "value": "{Blue.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-input": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-input-hover": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-input-focus": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-strong": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-primary-active": {
+        "value": "{Bliggit.Grasgruen.800}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-primary-disabled": {
+        "value": "{Bliggit.Grasgruen.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-surface": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-surface-invert": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-primary-subtle": {
+        "value": "{Bliggit.Grasgruen.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-primary-subtle-hover": {
+        "value": "{Bliggit.Grasgruen.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-primary-muted": {
+        "value": "{Bliggit.Grasgruen.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-muted": {
+        "value": "{Bliggit.Neutral.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-input-disabled": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-success-muted": {
+        "value": "{Green.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-warning-muted": {
+        "value": "{Yelllow.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-error-muted": {
+        "value": "{Red.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-info-muted": {
+        "value": "{Blue.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "bg-surface-raised": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      }
+    },
+    "Icon": {
+      "icon-success": {
+        "value": "{Green.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-warning": {
+        "value": "{Yelllow.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-error": {
+        "value": "{Red.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-info": {
+        "value": "{Blue.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-default": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-primary": {
+        "value": "{Bliggit.Grasgruen.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-inactive": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-muted": {
+        "value": "{Bliggit.Neutral.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-neutral": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-on-primary": {
+        "value": "{Black}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-on-subtle": {
+        "value": "{Bliggit.Neutral.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-primary-hover": {
+        "value": "{Bliggit.Grasgruen.800}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-primary-disabled": {
+        "value": "{Bliggit.Grasgruen.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-primary-active": {
+        "value": "{Bliggit.Grasgruen.800}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-on-invert": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-on-input": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-on-image": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-rating": {
+        "value": "{Bliggit.Zitronengelb.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "icon-error-on-primary": {
+        "value": "{Red.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      }
+    },
+    "Border": {
+      "border-success": {
+        "value": "{Green.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-container": {
+        "value": "{Bliggit.Neutral.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-strong": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-inactive": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-primary": {
+        "value": "{Bliggit.Grasgruen.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-error": {
+        "value": "{Red.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-warning": {
+        "value": "{Yelllow.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-info": {
+        "value": "{Blue.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-input": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-input-hover": {
+        "value": "{Bliggit.Neutral.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-input-focus": {
+        "value": "{Bliggit.Grasgruen.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-subtle": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-primary-focus": {
+        "value": "{Bliggit.Grasgruen.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-primary-active": {
+        "value": "{Bliggit.Grasgruen.800}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-primary-hover": {
+        "value": "{Bliggit.Grasgruen.800}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-primary-disabled": {
+        "value": "{Bliggit.Grasgruen.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-primary-subtle": {
+        "value": "{Bliggit.Grasgruen.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-primary-subtle-hover": {
+        "value": "{Bliggit.Grasgruen.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-input-disabled": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      },
+      "border-strong-on-primary": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Light",
+        "description": ""
+      }
+    },
+    "Effect": {
+      "Gradient": {
+        "primary-0": {
+          "value": "{Background.bg-primary}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Light",
+          "description": ""
+        },
+        "primary-100": {
+          "value": "{Background.bg-primary-subtle}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Light",
+          "description": ""
+        },
+        "accent-0": {
+          "value": "{Bliggit.Zitronengelb.300}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Light",
+          "description": ""
+        },
+        "accent-100": {
+          "value": "{Bliggit.Tuerkis.400}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Light",
+          "description": ""
+        },
+        "Overlay": {
+          "light-start": {
+            "value": "{Bliggit.White Alpha.900}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode A - Light",
+            "description": ""
+          },
+          "light-stop": {
+            "value": "{transparent}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode A - Light",
+            "description": ""
+          },
+          "dark-start": {
+            "value": "{Bliggit.Black Alpha.900}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode A - Light",
+            "description": ""
+          },
+          "dark-stop": {
+            "value": "{Transparent}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode A - Light",
+            "description": ""
+          },
+          "dark-start-fixed": {
+            "value": "{Bliggit.Black Alpha.900}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode A - Light",
+            "description": ""
+          },
+          "dark-stop-fixed": {
+            "value": "{Transparent}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode A - Light",
+            "description": ""
+          }
+        }
+      },
+      "Shadow": {
+        "light-outer": {
+          "value": "{Bliggit.Black Alpha.200}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Light",
+          "description": ""
+        },
+        "light-inner": {
+          "value": "{Bliggit.Black Alpha.100}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Light",
+          "description": ""
+        },
+        "Dark": {
+          "50": {
+            "value": "{Bliggit.Black Alpha.50}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode A - Light",
+            "description": ""
+          },
+          "100": {
+            "value": "{Bliggit.Black Alpha.100}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode A - Light",
+            "description": ""
+          }
+        }
+      }
+    },
+    "white": {
+      "value": "{White}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "black": {
+      "value": "{Black}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    },
+    "transparent": {
+      "value": "{Transparent}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Light",
+      "description": ""
+    }
+  },
+  "01 - Semantic Colors/Mode A - Dark": {
+    "Text": {
+      "text-success": {
+        "value": "{Green.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-body": {
+        "value": "{Bliggit.Neutral.50}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-error": {
+        "value": "{Red.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-warning": {
+        "value": "{Yelllow.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-info": {
+        "value": "{Blue.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-secondary": {
+        "value": "{Bliggit.Neutral.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-subtle": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-inactive": {
+        "value": "{Bliggit.Neutral.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-primary": {
+        "value": "{Bliggit.Grasgruen.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-primary-hover": {
+        "value": "{Bliggit.Grasgruen.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-primary-link": {
+        "value": "{Bliggit.Grasgruen.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-primary-link-hover": {
+        "value": "{Bliggit.Grasgruen.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-input": {
+        "value": "{Bliggit.Neutral.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-input-hover": {
+        "value": "{Bliggit.Neutral.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-input-focus": {
+        "value": "{Bliggit.Neutral.50}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-muted": {
+        "value": "{Bliggit.Neutral.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-on-primary": {
+        "value": "{Black}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-on-subtle": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-primary-disabled": {
+        "value": "{Bliggit.Grasgruen.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-primary-active": {
+        "value": "{Bliggit.Grasgruen.50}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-on-image": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-on-invert": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "text-error-on-primary": {
+        "value": "{Red.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      }
+    },
+    "Background": {
+      "bg-success": {
+        "value": "{Green.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-body": {
+        "value": "{Bliggit.Neutral.800}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-success-hover": {
+        "value": "{Green.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-primary": {
+        "value": "{Bliggit.Grasgruen.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-primary-hover": {
+        "value": "{Bliggit.Grasgruen.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-page": {
+        "value": "{Black}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-subtle": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-error": {
+        "value": "{Red.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-error-hover": {
+        "value": "{Red.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-warning": {
+        "value": "{Yelllow.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-warning-hover": {
+        "value": "{Yelllow.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-info": {
+        "value": "{Blue.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-info-hover": {
+        "value": "{Blue.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-input": {
+        "value": "{Black}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-input-hover": {
+        "value": "{Bliggit.Neutral.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-input-focus": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-strong": {
+        "value": "{Bliggit.Neutral.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-primary-active": {
+        "value": "{Bliggit.Grasgruen.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-primary-disabled": {
+        "value": "{Bliggit.Grasgruen.50}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-surface": {
+        "value": "{Bliggit.Neutral.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-surface-invert": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-primary-subtle": {
+        "value": "{Bliggit.Grasgruen.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-primary-subtle-hover": {
+        "value": "{Bliggit.Grasgruen.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-primary-muted": {
+        "value": "{Bliggit.Grasgruen.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-muted": {
+        "value": "{Bliggit.Neutral.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-input-disabled": {
+        "value": "{Bliggit.Neutral.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-success-muted": {
+        "value": "{Green.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-warning-muted": {
+        "value": "{Yelllow.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-error-muted": {
+        "value": "{Red.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-info-muted": {
+        "value": "{Blue.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "bg-surface-raised": {
+        "value": "{Bliggit.Neutral.800}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      }
+    },
+    "Icon": {
+      "icon-success": {
+        "value": "{Green.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-warning": {
+        "value": "{Yelllow.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-error": {
+        "value": "{Red.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-info": {
+        "value": "{Blue.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-default": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-primary": {
+        "value": "{Bliggit.Grasgruen.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-inactive": {
+        "value": "{Bliggit.Neutral.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-muted": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-neutral": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-on-primary": {
+        "value": "{Black}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-on-subtle": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-primary-hover": {
+        "value": "{Bliggit.Grasgruen.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-primary-disabled": {
+        "value": "{Bliggit.Grasgruen.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-primary-active": {
+        "value": "{Bliggit.Grasgruen.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-on-invert": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-on-input": {
+        "value": "{Bliggit.Neutral.50}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-on-image": {
+        "value": "{White}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-rating": {
+        "value": "{Bliggit.Zitronengelb.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "icon-error-on-primary": {
+        "value": "{Red.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      }
+    },
+    "Border": {
+      "border-success": {
+        "value": "{Green.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-container": {
+        "value": "{Bliggit.Neutral.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-strong": {
+        "value": "{Bliggit.Neutral.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-inactive": {
+        "value": "{Bliggit.Neutral.700}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-primary": {
+        "value": "{Bliggit.Grasgruen.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-error": {
+        "value": "{Red.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-warning": {
+        "value": "{Yelllow.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-info": {
+        "value": "{Blue.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-input": {
+        "value": "{Bliggit.Neutral.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-input-hover": {
+        "value": "{Bliggit.Neutral.300}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-input-focus": {
+        "value": "{Bliggit.Grasgruen.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-subtle": {
+        "value": "{Bliggit.Neutral.800}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-primary-focus": {
+        "value": "{Bliggit.Grasgruen.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-primary-active": {
+        "value": "{Bliggit.Grasgruen.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-primary-hover": {
+        "value": "{Bliggit.Grasgruen.200}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-primary-disabled": {
+        "value": "{Bliggit.Grasgruen.100}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-primary-subtle": {
+        "value": "{Bliggit.Grasgruen.500}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-primary-subtle-hover": {
+        "value": "{Bliggit.Grasgruen.600}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-input-disabled": {
+        "value": "{Bliggit.Neutral.400}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      },
+      "border-strong-on-primary": {
+        "value": "{Bliggit.Neutral.900}",
+        "type": "color",
+        "parent": "01 - Semantic Colors/Mode A - Dark",
+        "description": ""
+      }
+    },
+    "Effect": {
+      "Gradient": {
+        "primary-0": {
+          "value": "{Background.bg-primary}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Dark",
+          "description": ""
+        },
+        "primary-100": {
+          "value": "{Background.bg-primary-subtle}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Dark",
+          "description": ""
+        },
+        "accent-0": {
+          "value": "{Bliggit.Zitronengelb.400}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Dark",
+          "description": ""
+        },
+        "accent-100": {
+          "value": "{Bliggit.Tuerkis.400}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Dark",
+          "description": ""
+        },
+        "Overlay": {
+          "light-start": {
+            "value": "{Bliggit.Black Alpha.900}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode A - Dark",
+            "description": ""
+          },
+          "light-stop": {
+            "value": "{Transparent}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode A - Dark",
+            "description": ""
+          },
+          "dark-start": {
+            "value": "{Bliggit.White Alpha.900}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode A - Dark",
+            "description": ""
+          },
+          "dark-stop": {
+            "value": "{Transparent}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode A - Dark",
+            "description": ""
+          },
+          "dark-start-fixed": {
+            "value": "{Bliggit.Black Alpha.900}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode A - Dark",
+            "description": ""
+          },
+          "dark-stop-fixed": {
+            "value": "{Transparent}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode A - Dark",
+            "description": ""
+          }
+        }
+      },
+      "Shadow": {
+        "light-outer": {
+          "value": "{Black}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Dark",
+          "description": ""
+        },
+        "light-inner": {
+          "value": "{Bliggit.Black Alpha.900}",
+          "type": "color",
+          "parent": "01 - Semantic Colors/Mode A - Dark",
+          "description": ""
+        },
+        "Dark": {
+          "50": {
+            "value": "{Bliggit.White Alpha.50}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode A - Dark",
+            "description": ""
+          },
+          "100": {
+            "value": "{Bliggit.White Alpha.100}",
+            "type": "color",
+            "parent": "01 - Semantic Colors/Mode A - Dark",
+            "description": ""
+          }
+        }
+      }
+    },
+    "white": {
+      "value": "{White}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Dark",
+      "description": ""
+    },
+    "black": {
+      "value": "{Black}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Dark",
+      "description": ""
+    },
+    "transparent": {
+      "value": "{Transparent}",
+      "type": "color",
+      "parent": "01 - Semantic Colors/Mode A - Dark",
+      "description": ""
+    }
+  },
+  "04 - Typography/Mode 1": {
+    "font": {
+      "family": {
+        "body": {
+          "value": "Lato",
+          "type": "text",
+          "parent": "04 - Typography/Mode 1",
+          "description": ""
+        },
+        "title": {
+          "value": "Lato",
+          "type": "text",
+          "parent": "04 - Typography/Mode 1",
+          "description": ""
+        }
+      },
+      "weight": {
+        "regular": {
+          "value": "Regular",
+          "type": "text",
+          "parent": "04 - Typography/Mode 1",
+          "description": ""
+        },
+        "semi-bold": {
+          "value": "Bold",
+          "type": "text",
+          "parent": "04 - Typography/Mode 1",
+          "description": ""
+        },
+        "bold": {
+          "value": "ExtraBold",
+          "type": "text",
+          "parent": "04 - Typography/Mode 1",
+          "description": ""
+        },
+        "medium": {
+          "value": "Medium",
+          "type": "text",
+          "parent": "04 - Typography/Mode 1",
+          "description": ""
+        },
+        "light": {
+          "value": "Light",
+          "type": "text",
+          "parent": "04 - Typography/Mode 1",
+          "description": ""
+        }
+      }
+    }
+  },
+  "02 - Spacing/Mode 1": {
+    "Radius": {
+      "radii-xxs": {
+        "value": "2",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      },
+      "radii-xs": {
+        "value": "4",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      },
+      "radii-s": {
+        "value": "6",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      },
+      "radii-l": {
+        "value": "16",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      },
+      "radii-xl": {
+        "value": "24",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      },
+      "radii-full": {
+        "value": "999",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      },
+      "radii-m": {
+        "value": "8",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      },
+      "radii-none": {
+        "value": "0",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      },
+      "radii-xxl": {
+        "value": "48",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      }
+    },
+    "Spacing": {
+      "spacing-xs": {
+        "value": "4",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      },
+      "spacing-s": {
+        "value": "8",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      },
+      "spacing-m": {
+        "value": "16",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      },
+      "spacing-l": {
+        "value": "24",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      },
+      "spacing-xl": {
+        "value": "32",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      },
+      "spacing-xxl": {
+        "value": "40",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      },
+      "spacing-xxs": {
+        "value": "2",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      },
+      "spacing-none": {
+        "value": "0",
+        "type": "number",
+        "parent": "02 - Spacing/Mode 1",
+        "description": ""
+      }
+    }
+  },
+  "03 - Blurs/Mode 1": {
+    "blur-4": {
+      "value": "4",
+      "type": "number",
+      "parent": "03 - Blurs/Mode 1",
+      "description": ""
+    },
+    "blur-8": {
+      "value": "8",
+      "type": "number",
+      "parent": "03 - Blurs/Mode 1",
+      "description": ""
+    },
+    "blur-16": {
+      "value": "16",
+      "type": "number",
+      "parent": "03 - Blurs/Mode 1",
+      "description": ""
+    },
+    "blur-24": {
+      "value": "24",
+      "type": "number",
+      "parent": "03 - Blurs/Mode 1",
+      "description": ""
+    },
+    "blur-32": {
+      "value": "32",
+      "type": "number",
+      "parent": "03 - Blurs/Mode 1",
+      "description": ""
+    },
+    "blur-40": {
+      "value": "40",
+      "type": "number",
+      "parent": "03 - Blurs/Mode 1",
+      "description": ""
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "00 - Primitives/Default",
+      "01 - Semantic Colors/Mode B - Light",
+      "01 - Semantic Colors/Mode B - Dark",
+      "01 - Semantic Colors/Mode A - Light",
+      "01 - Semantic Colors/Mode A - Dark",
+      "04 - Typography/Mode 1",
+      "02 - Spacing/Mode 1",
+      "03 - Blurs/Mode 1"
+    ]
+  }
+}
