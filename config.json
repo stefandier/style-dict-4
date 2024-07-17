@@ -1,23 +1,18 @@
 {
-  "source": [
-    "data-simple/tokens/00 - Primitives/Default.json",
-    "data-simple/tokens/01 - Semantic Colors/*.json"
-  ],
-  "preprocessors": [
-    "tokens-studio"
-  ],
+  "source": ["data-flat/*.json"],
   "platforms": {
-    "react-native": {
+    "web": {
+      "transformGroup": "web",
       "buildPath": "build/",
-      "prefix": "",
       "files": [
         {
-          "destination": "mod.d.ts",
-          "format": "typescript/module-declarations"
-        },
-        {
-          "destination": "obj.js",
-          "format": "javascript/object"
+          "destination": "semantic-color-1.json",
+          "format": "json/nested",
+          "filter": {
+            "attributes": {
+              
+            }
+          }
         }
       ]
     }

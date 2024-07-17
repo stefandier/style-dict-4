@@ -1,0 +1,12 @@
+{
+  "tokenSetOrder": [
+    "00 - Primitives/Default",
+    "01 - Semantic Colors/Mode B - Light",
+    "01 - Semantic Colors/Mode B - Dark",
+    "01 - Semantic Colors/Mode A - Light",
+    "01 - Semantic Colors/Mode A - Dark",
+    "04 - Typography/Mode 1",
+    "02 - Spacing/Mode 1",
+    "03 - Blurs/Mode 1"
+  ]
+}

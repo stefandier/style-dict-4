@@ -4,7 +4,7 @@
     "build": "style-dictionary build --config ./build.mjs"
   },
   "devDependencies": {
-    "@tokens-studio/sd-transforms": "github:tokens-studio/sd-transforms",
+    "@tokens-studio/sd-transforms": "^1.1.0",
     "json-to-ts": "^2.1.0",
     "style-dictionary": "^4.0.0"
   }
