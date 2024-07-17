@@ -1,17 +1,23 @@
 {
-  "source": ["data-simple/tokensStudioPreset.json"],
+  "source": [
+    "data-simple/tokens/00 - Primitives/Default.json",
+    "data-simple/tokens/01 - Semantic Colors/*.json"
+  ],
+  "preprocessors": [
+    "tokens-studio"
+  ],
   "platforms": {
     "react-native": {
-      "transformGroup": "react-native",
-      "buildPath": "./build/",
+      "buildPath": "build/",
+      "prefix": "",
       "files": [
         {
-          "destination": "themes.ts",
-          "format": "javascript/object",
-          "options": {
-            "outputReferences": true,
-            "resolveReferences": true
-          }
+          "destination": "mod.d.ts",
+          "format": "typescript/module-declarations"
+        },
+        {
+          "destination": "obj.js",
+          "format": "javascript/object"
         }
       ]
     }
